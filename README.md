@@ -66,8 +66,3 @@ The program generates random **arrival times** and **burst times** for processes
 This project provides a comprehensive understanding of MLFQ scheduling, showcasing its adaptability to varying task requirements while maintaining efficiency.
 
 ---
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
